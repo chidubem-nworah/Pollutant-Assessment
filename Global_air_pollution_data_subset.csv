@@ -1,0 +1,501 @@
+country_name,city_name,aqi_value,aqi_category,co_aqi_value.,co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2.5_aqi_value,pm2.5_aqi_category
+Russian Federation,Praskoveya,51,Moderate,1,Good,36,Good,0,Good,51,Moderate
+Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good
+Italy,Priolo Gargallo,66,Moderate,1,Good,39,Good,2,Good,66,Moderate
+Poland,Przasnysz,34,Good,1,Good,34,Good,0,Good,20,Good
+France,Punaauia,22,Good,0,Good,22,Good,0,Good,6,Good
+United States of America,Punta Gorda,54,Moderate,1,Good,14,Good,11,Good,54,Moderate
+Germany,Puttlingen,62,Moderate,1,Good,35,Good,3,Good,62,Moderate
+Belgium,Puurs,64,Moderate,1,Good,29,Good,7,Good,64,Moderate
+Russian Federation,Pyatigorsk,54,Moderate,1,Good,41,Good,1,Good,54,Moderate
+Egypt,Qalyub,142,Unhealthy for Sensitive Groups,3,Good,89,Moderate,9,Good,142,Unhealthy for Sensitive Groups
+China,Qinzhou,68,Moderate,2,Good,68,Moderate,1,Good,58,Moderate
+Netherlands,Raalte,41,Good,1,Good,24,Good,6,Good,41,Good
+India,Radaur,158,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+Pakistan,Radhan,158,Unhealthy,1,Good,50,Good,1,Good,158,Unhealthy
+Republic of North Macedonia,Radovis,83,Moderate,1,Good,46,Good,0,Good,83,Moderate
+France,Raismes,59,Moderate,1,Good,30,Good,4,Good,59,Moderate
+India,Rajgir,154,Unhealthy,3,Good,100,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+Italy,Ramacca,55,Moderate,1,Good,47,Good,0,Good,55,Moderate
+United States of America,Phoenix,72,Moderate,1,Good,4,Good,23,Good,72,Moderate
+India,Phulabani,161,Unhealthy,2,Good,71,Moderate,0,Good,161,Unhealthy
+Poland,Piaseczno,28,Good,1,Good,28,Good,2,Good,28,Good
+India,Pimpri,118,Unhealthy for Sensitive Groups,2,Good,30,Good,2,Good,118,Unhealthy for Sensitive Groups
+Brazil,Pindobacu,33,Good,0,Good,10,Good,1,Good,33,Good
+China,Pingyin,150,Unhealthy,3,Good,95,Moderate,6,Good,150,Unhealthy
+Brazil,Pinheiral,154,Unhealthy,5,Good,0,Good,13,Good,154,Unhealthy
+India,Piravam,81,Moderate,1,Good,24,Good,1,Good,81,Moderate
+Colombia,Plato,67,Moderate,1,Good,16,Good,2,Good,67,Moderate
+Romania,Poiana Mare,62,Moderate,1,Good,37,Good,1,Good,62,Moderate
+Russian Federation,Polevskoy,31,Good,1,Good,31,Good,0,Good,17,Good
+France,Pontarlier,56,Moderate,1,Good,35,Good,0,Good,56,Moderate
+United States of America,Pontiac,77,Moderate,2,Good,22,Good,15,Good,77,Moderate
+Indonesia,Pontianak,44,Good,1,Good,15,Good,0,Good,44,Good
+Brazil,Porecatu,30,Good,1,Good,9,Good,2,Good,30,Good
+Finland,Pori,30,Good,1,Good,30,Good,1,Good,15,Good
+South Africa,Port Elizabeth,79,Moderate,3,Good,18,Good,5,Good,79,Moderate
+United States of America,Port Neches,34,Good,1,Good,19,Good,7,Good,34,Good
+United Kingdom of Great Britain and Northern Ireland,Port Talbot,51,Moderate,1,Good,20,Good,5,Good,51,Moderate
+United States of America,Portales,77,Moderate,1,Good,34,Good,0,Good,77,Moderate
+United States of America,Post Falls,61,Moderate,1,Good,32,Good,3,Good,61,Moderate
+Brazil,Pouso Alegre,32,Good,1,Good,7,Good,2,Good,32,Good
+China,Dalinghe,64,Moderate,3,Good,64,Moderate,4,Good,64,Moderate
+Russian Federation,Dalnegorsk,29,Good,0,Good,29,Good,0,Good,25,Good
+United Republic of Tanzania,Dar Es Salaam,51,Moderate,1,Good,23,Good,0,Good,51,Moderate
+India,Darbhanga,247,Very Unhealthy,3,Good,162,Unhealthy,1,Good,247,Very Unhealthy
+United States of America,Dayton,45,Good,1,Good,32,Good,7,Good,45,Good
+Belgium,Deinze,36,Good,1,Good,25,Good,3,Good,36,Good
+Egypt,Dekernes,81,Moderate,2,Good,81,Moderate,4,Good,56,Moderate
+Haiti,Delmas,124,Unhealthy for Sensitive Groups,2,Good,15,Good,5,Good,124,Unhealthy for Sensitive Groups
+United States of America,Deming,72,Moderate,1,Good,26,Good,2,Good,72,Moderate
+United Kingdom of Great Britain and Northern Ireland,Denton,55,Moderate,0,Good,32,Good,1,Good,55,Moderate
+United States of America,Destin,31,Good,0,Good,31,Good,0,Good,25,Good
+Pakistan,Dhadar,157,Unhealthy,1,Good,89,Moderate,0,Good,157,Unhealthy
+India,Dharmapuri,60,Moderate,1,Good,31,Good,1,Good,60,Moderate
+Pakistan,Digri,153,Unhealthy,1,Good,40,Good,0,Good,153,Unhealthy
+Somalia,Dinsor,22,Good,0,Good,19,Good,0,Good,22,Good
+Philippines,Dipolog,30,Good,1,Good,17,Good,0,Good,30,Good
+Latvia,Dobele,44,Good,1,Good,34,Good,0,Good,44,Good
+United States of America,Grandville,47,Good,1,Good,37,Good,4,Good,47,Good
+Netherlands,Grave,37,Good,0,Good,32,Good,2,Good,37,Good
+United States of America,Green Valley,44,Good,1,Good,14,Good,8,Good,44,Good
+United States of America,Greendale,58,Moderate,2,Good,14,Good,24,Good,58,Moderate
+Poland,Grudziadz,37,Good,0,Good,33,Good,0,Good,37,Good
+Colombia,Guamo,89,Moderate,3,Good,3,Good,6,Good,89,Moderate
+Italy,Guardiagrele,52,Moderate,2,Good,38,Good,7,Good,52,Moderate
+Chad,Guelengdeng,59,Moderate,2,Good,16,Good,0,Good,59,Moderate
+United Kingdom of Great Britain and Northern Ireland,Guildford,51,Moderate,1,Good,25,Good,6,Good,51,Moderate
+Philippines,Guiset,66,Moderate,1,Good,26,Good,1,Good,66,Moderate
+Russian Federation,Gukovo,38,Good,1,Good,38,Good,0,Good,13,Good
+United States of America,Havre De Grace,34,Good,1,Good,30,Good,7,Good,34,Good
+United States of America,Hazelwood,88,Moderate,2,Good,11,Good,20,Good,88,Moderate
+Germany,Heddesheim,54,Moderate,1,Good,31,Good,3,Good,54,Moderate
+Germany,Heiligenhaus,44,Good,1,Good,28,Good,3,Good,44,Good
+United Kingdom of Great Britain and Northern Ireland,Hemel Hempstead,51,Moderate,1,Good,26,Good,6,Good,51,Moderate
+United States of America,Hicksville,67,Moderate,2,Good,15,Good,23,Good,67,Moderate
+Brazil,Hidrolandia,42,Good,1,Good,5,Good,2,Good,42,Good
+India,Gyanpur,189,Unhealthy,2,Good,99,Moderate,1,Good,189,Unhealthy
+Germany,Haiger,49,Good,1,Good,25,Good,3,Good,49,Good
+China,Hangzhou,203,Very Unhealthy,5,Good,203,Very Unhealthy,5,Good,151,Unhealthy
+Germany,Harrislee,35,Good,0,Good,32,Good,0,Good,35,Good
+United States of America,Harrison,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+India,Harur,67,Moderate,1,Good,26,Good,1,Good,67,Moderate
+Germany,Hasbergen,36,Good,0,Good,34,Good,1,Good,36,Good
+France,Haubourdin,48,Good,1,Good,28,Good,4,Good,48,Good
+United States of America,Taunton,41,Good,1,Good,28,Good,10,Good,41,Good
+New Zealand,Tauranga,19,Good,0,Good,19,Good,1,Good,17,Good
+Tunisia,Tawzar,73,Moderate,1,Good,43,Good,0,Good,73,Moderate
+Viet Nam,Tay Ninh,45,Good,0,Good,18,Good,1,Good,45,Good
+Iran (Islamic Republic of),Taybad,170,Unhealthy,1,Good,43,Good,0,Good,170,Unhealthy
+Italy,Teano,47,Good,1,Good,47,Good,1,Good,36,Good
+India,Tekkali,155,Unhealthy,3,Good,82,Moderate,1,Good,155,Unhealthy
+Brazil,Teodoro Sampaio,46,Good,1,Good,9,Good,1,Good,46,Good
+Mexico,Tepeaca,172,Unhealthy,5,Good,2,Good,11,Good,172,Unhealthy
+Mexico,Tequila,64,Moderate,1,Good,15,Good,2,Good,64,Moderate
+Italy,Teramo,44,Good,1,Good,44,Good,1,Good,38,Good
+Viet Nam,Thai Nguyen,150,Unhealthy,3,Good,150,Unhealthy,1,Good,105,Unhealthy for Sensitive Groups
+China,Tianjin,142,Unhealthy for Sensitive Groups,4,Good,113,Unhealthy for Sensitive Groups,9,Good,142,Unhealthy for Sensitive Groups
+Indonesia,Tidore,21,Good,0,Good,13,Good,0,Good,21,Good
+Romania,Timisoara,47,Good,1,Good,42,Good,0,Good,47,Good
+Tunisia,Tinjah,48,Good,1,Good,48,Good,1,Good,29,Good
+Philippines,Toboso,54,Moderate,1,Good,20,Good,0,Good,54,Moderate
+Japan,Tokorozawa,60,Moderate,1,Good,44,Good,3,Good,60,Moderate
+Mexico,Toluca,166,Unhealthy,4,Good,8,Good,19,Good,166,Unhealthy
+Brazil,Itapissuma,27,Good,0,Good,23,Good,1,Good,27,Good
+Brazil,Itarantim,23,Good,1,Good,7,Good,1,Good,23,Good
+Brazil,Itumbiara,31,Good,1,Good,13,Good,0,Good,31,Good
+Mexico,Ixtaczoquitlan,88,Moderate,3,Good,13,Good,9,Good,88,Moderate
+El Salvador,Izalco,90,Moderate,2,Good,22,Good,9,Good,90,Moderate
+United Republic of Tanzania,Izazi,28,Good,1,Good,15,Good,0,Good,28,Good
+Russian Federation,Izberbash,51,Moderate,1,Good,38,Good,0,Good,51,Moderate
+India,Jabalpur,170,Unhealthy,1,Good,38,Good,0,Good,170,Unhealthy
+Brazil,Jaguaquara,22,Good,0,Good,9,Good,1,Good,22,Good
+India,Jahanabad,168,Unhealthy,4,Good,168,Unhealthy,1,Good,156,Unhealthy
+Bulgaria,Jambol,40,Good,1,Good,40,Good,0,Good,32,Good
+Poland,Jarocin,47,Good,1,Good,27,Good,2,Good,47,Good
+Philippines,Jasaan,59,Moderate,1,Good,32,Good,0,Good,59,Moderate
+Nigeria,Ilobu,133,Unhealthy for Sensitive Groups,4,Good,23,Good,3,Good,133,Unhealthy for Sensitive Groups
+Finland,Imatra,29,Good,1,Good,29,Good,1,Good,7,Good
+Brazil,Indaial,73,Moderate,2,Good,2,Good,8,Good,73,Moderate
+Philippines,Indang,50,Good,0,Good,24,Good,0,Good,50,Good
+Brazil,Itagi,25,Good,0,Good,9,Good,1,Good,25,Good
+Nigeria,Iseyin,90,Moderate,3,Good,18,Good,2,Good,90,Moderate
+Mexico,Isla,81,Moderate,2,Good,26,Good,3,Good,81,Moderate
+Brazil,Itaitinga,29,Good,0,Good,20,Good,1,Good,29,Good
+Brazil,Itambe,21,Good,0,Good,8,Good,1,Good,21,Good
+Brazil,Itapemirim,44,Good,1,Good,16,Good,1,Good,44,Good
+South Sudan,Torit,65,Moderate,1,Good,12,Good,0,Good,65,Moderate
+Guatemala,Totonicapan,66,Moderate,2,Good,7,Good,6,Good,66,Moderate
+United States of America,Trenton,53,Moderate,1,Good,28,Good,10,Good,53,Moderate
+United States of America,Trujillo Alto,56,Moderate,0,Good,23,Good,0,Good,56,Moderate
+Ireland,Tullamore,57,Moderate,1,Good,26,Good,3,Good,57,Moderate
+Turkey,Tunceli,62,Moderate,0,Good,35,Good,0,Good,62,Moderate
+Viet Nam,Tuyen Quang,167,Unhealthy,4,Good,167,Unhealthy,1,Good,107,Unhealthy for Sensitive Groups
+United States of America,Two Rivers,49,Good,1,Good,27,Good,4,Good,49,Good
+United States of America,Tysons Corner,55,Moderate,2,Good,25,Good,11,Good,55,Moderate
+Russian Federation,Tyukalinsk,34,Good,1,Good,34,Good,0,Good,32,Good
+India,Udupi,80,Moderate,1,Good,25,Good,0,Good,80,Moderate
+India,Umaria,163,Unhealthy,2,Good,92,Moderate,0,Good,163,Unhealthy
+United States of America,Willowbrook,126,Unhealthy for Sensitive Groups,4,Good,3,Good,36,Good,126,Unhealthy for Sensitive Groups
+United States of America,Wilmette,63,Moderate,2,Good,9,Good,22,Good,63,Moderate
+United States of America,Wolf Trap,53,Moderate,2,Good,27,Good,10,Good,53,Moderate
+United States of America,Woodhaven,86,Moderate,2,Good,38,Good,10,Good,86,Moderate
+China,Wulanhaote,47,Good,2,Good,47,Good,0,Good,25,Good
+China,Xiangdong,78,Moderate,2,Good,25,Good,7,Good,78,Moderate
+China,Xiaoweizhai,61,Moderate,2,Good,61,Moderate,0,Good,54,Moderate
+China,Xushan,112,Unhealthy for Sensitive Groups,2,Good,44,Good,4,Good,112,Unhealthy for Sensitive Groups
+Peru,Yanacancha,27,Good,0,Good,6,Good,1,Good,27,Good
+China,Yancheng,155,Unhealthy,3,Good,155,Unhealthy,2,Good,151,Unhealthy
+Democratic Republic of the Congo,Yangambi,121,Unhealthy for Sensitive Groups,4,Good,24,Good,0,Good,121,Unhealthy for Sensitive Groups
+China,Yanggu,160,Unhealthy,3,Good,138,Unhealthy for Sensitive Groups,5,Good,160,Unhealthy
+China,Yangliuqing,144,Unhealthy for Sensitive Groups,4,Good,109,Unhealthy for Sensitive Groups,9,Good,144,Unhealthy for Sensitive Groups
+China,Yanji,69,Moderate,2,Good,48,Good,0,Good,69,Moderate
+United States of America,Yankton,47,Good,1,Good,34,Good,3,Good,47,Good
+Germany,Wenden,69,Moderate,1,Good,34,Good,4,Good,69,Moderate
+United States of America,West Carrollton City,84,Moderate,3,Good,9,Good,24,Good,84,Moderate
+Belgium,Wetteren,64,Moderate,1,Good,32,Good,6,Good,64,Moderate
+Canada,Whitehorse,20,Good,1,Good,20,Good,1,Good,10,Good
+Ireland,Wicklow,38,Good,1,Good,30,Good,3,Good,38,Good
+Switzerland,Wil,59,Moderate,1,Good,27,Good,3,Good,59,Moderate
+Germany,Wildeshausen,67,Moderate,1,Good,30,Good,5,Good,67,Moderate
+United States of America,Williamsport,75,Moderate,2,Good,13,Good,16,Good,75,Moderate
+United States of America,Fox Lake,60,Moderate,2,Good,18,Good,21,Good,60,Moderate
+Brazil,Foz Do Iguacu,22,Good,1,Good,13,Good,0,Good,22,Good
+Denmark,Frederikssund,36,Good,1,Good,36,Good,0,Good,25,Good
+United States of America,Friendly,41,Good,1,Good,30,Good,8,Good,41,Good
+Germany,Fuldatal,44,Good,1,Good,28,Good,2,Good,44,Good
+Japan,Furano,29,Good,1,Good,26,Good,1,Good,29,Good
+China,Fuzhou,168,Unhealthy,3,Good,168,Unhealthy,5,Good,99,Moderate
+United Kingdom of Great Britain and Northern Ireland,Galashiels,25,Good,1,Good,25,Good,3,Good,23,Good
+Germany,Gangelt,41,Good,1,Good,26,Good,4,Good,41,Good
+Germany,Garbsen,36,Good,0,Good,33,Good,1,Good,36,Good
+Cameroon,Garoua,59,Moderate,2,Good,12,Good,0,Good,59,Moderate
+Somalia,Garowe,98,Moderate,0,Good,17,Good,0,Good,98,Moderate
+Netherlands,Geertruidenberg,35,Good,0,Good,33,Good,2,Good,35,Good
+Australia,Geraldton,29,Good,0,Good,29,Good,0,Good,13,Good
+Germany,Germersheim,51,Moderate,1,Good,29,Good,3,Good,51,Moderate
+Colombia,Girardot,103,Unhealthy for Sensitive Groups,4,Good,9,Good,6,Good,103,Unhealthy for Sensitive Groups
+Russian Federation,Glubokiy,35,Good,1,Good,35,Good,0,Good,17,Good
+United Kingdom of Great Britain and Northern Ireland,Golborne,35,Good,1,Good,30,Good,4,Good,35,Good
+Portugal,Gondomar,27,Good,0,Good,27,Good,2,Good,21,Good
+Russian Federation,Goryachevodskiy,48,Good,1,Good,39,Good,1,Good,48,Good
+India,Govindgarh,307,Hazardous,1,Good,45,Good,0,Good,307,Hazardous
+Côte d'Ivoire,Grand Lahou,54,Moderate,1,Good,25,Good,0,Good,54,Moderate
+United States of America,Hoffman Estates,61,Moderate,2,Good,26,Good,16,Good,61,Moderate
+Sweden,Hoganas,36,Good,1,Good,36,Good,1,Good,30,Good
+United States of America,Holly Springs,42,Good,1,Good,42,Good,2,Good,37,Good
+Germany,Holzminden,42,Good,0,Good,32,Good,1,Good,42,Good
+China,Huaicheng,151,Unhealthy,4,Good,45,Good,4,Good,151,Unhealthy
+Ethiopia,Huruta,102,Unhealthy for Sensitive Groups,1,Good,23,Good,0,Good,102,Unhealthy for Sensitive Groups
+Nigeria,Idanre,115,Unhealthy for Sensitive Groups,3,Good,24,Good,2,Good,115,Unhealthy for Sensitive Groups
+Italy,Iglesias,64,Moderate,1,Good,53,Moderate,1,Good,64,Moderate
+Germany,Ihlow,40,Good,1,Good,30,Good,2,Good,40,Good
+Japan,Iizuka,45,Good,1,Good,45,Good,0,Good,38,Good
+Thailand,Sungai Kolok,65,Moderate,1,Good,34,Good,0,Good,65,Moderate
+Indonesia,Sungaipenuh,17,Good,1,Good,13,Good,0,Good,17,Good
+Russian Federation,Suvorovskaya,52,Moderate,1,Good,39,Good,1,Good,52,Moderate
+Japan,Suzu,69,Moderate,1,Good,69,Moderate,1,Good,60,Moderate
+Poland,Swiecie,44,Good,1,Good,33,Good,1,Good,44,Good
+Hungary,Szeged,50,Good,1,Good,41,Good,1,Good,50,Good
+Hungary,Szerencs,72,Moderate,1,Good,42,Good,1,Good,72,Moderate
+Tunisia,Taburbah,49,Good,1,Good,49,Good,1,Good,32,Good
+India,Tadepallegudem,127,Unhealthy for Sensitive Groups,2,Good,65,Moderate,1,Good,127,Unhealthy for Sensitive Groups
+Iran (Islamic Republic of),Tafresh,125,Unhealthy for Sensitive Groups,2,Good,125,Unhealthy for Sensitive Groups,1,Good,82,Moderate
+Philippines,Tagaytay,41,Good,1,Good,25,Good,1,Good,41,Good
+Japan,Tajimi,52,Moderate,1,Good,34,Good,3,Good,52,Moderate
+Japan,Takahagi,47,Good,1,Good,47,Good,1,Good,44,Good
+Japan,Takahashi,36,Good,1,Good,36,Good,3,Good,34,Good
+India,Tal,155,Unhealthy,1,Good,39,Good,0,Good,155,Unhealthy
+Philippines,Talacogon,37,Good,1,Good,19,Good,0,Good,37,Good
+Russian Federation,Taldom,46,Good,1,Good,27,Good,1,Good,46,Good
+Kazakhstan,Talgar,69,Moderate,1,Good,42,Good,0,Good,69,Moderate
+United States of America,Tamiami,64,Moderate,1,Good,18,Good,12,Good,64,Moderate
+Israel,Tamra,92,Moderate,2,Good,52,Moderate,8,Good,92,Moderate
+Japan,Tanashi,58,Moderate,1,Good,43,Good,3,Good,58,Moderate
+Romania,Tandarei,41,Good,1,Good,41,Good,0,Good,38,Good
+Philippines,Tantangan,35,Good,1,Good,20,Good,0,Good,35,Good
+Indonesia,Tarogong,88,Moderate,2,Good,53,Moderate,1,Good,88,Moderate
+Turkey,Tatvan,45,Good,0,Good,45,Good,0,Good,43,Good
+India,Yaval,102,Unhealthy for Sensitive Groups,1,Good,38,Good,0,Good,102,Unhealthy for Sensitive Groups
+United Kingdom of Great Britain and Northern Ireland,Yeovil,58,Moderate,1,Good,24,Good,7,Good,58,Moderate
+China,Yuanping,143,Unhealthy for Sensitive Groups,2,Good,35,Good,5,Good,143,Unhealthy for Sensitive Groups
+China,Yuncheng,187,Unhealthy,2,Good,36,Good,8,Good,187,Unhealthy
+Poland,Zambrow,35,Good,1,Good,35,Good,0,Good,17,Good
+Poland,Zamosc,48,Good,1,Good,35,Good,1,Good,48,Good
+Belgium,Zaventem,58,Moderate,1,Good,29,Good,6,Good,58,Moderate
+Belgium,Zemst,65,Moderate,1,Good,27,Good,8,Good,65,Moderate
+China,Zhaozhou,73,Moderate,2,Good,66,Moderate,0,Good,73,Moderate
+China,Zhicheng,160,Unhealthy,4,Good,36,Good,13,Good,160,Unhealthy
+China,Zhongshan,98,Moderate,3,Good,33,Good,9,Good,98,Moderate
+China,Zhuji,156,Unhealthy,4,Good,45,Good,10,Good,156,Unhealthy
+Mexico,Zimatlan,75,Moderate,2,Good,9,Good,6,Good,75,Moderate
+Mexico,Zinacantepec,163,Unhealthy,4,Good,8,Good,18,Good,163,Unhealthy
+Russian Federation,Zmeinogorsk,35,Good,1,Good,35,Good,0,Good,21,Good
+Netherlands,Aalburg,30,Good,0,Good,30,Good,2,Good,29,Good
+Spain,Abaran,47,Good,1,Good,21,Good,2,Good,47,Good
+Italy,Abbiategrasso,69,Moderate,1,Good,37,Good,4,Good,69,Moderate
+Côte d'Ivoire,Abidjan,105,Unhealthy for Sensitive Groups,4,Good,15,Good,4,Good,105,Unhealthy for Sensitive Groups
+Mexico,Acuautla,189,Unhealthy,2,Good,9,Good,15,Good,189,Unhealthy
+United States of America,Acworth,64,Moderate,2,Good,37,Good,8,Good,64,Moderate
+United States of America,Adelphi,54,Moderate,1,Good,32,Good,5,Good,54,Moderate
+India,Afzalgarh,198,Unhealthy,4,Good,198,Unhealthy,3,Good,188,Unhealthy
+Nigeria,Agbor,139,Unhealthy for Sensitive Groups,7,Good,13,Good,5,Good,139,Unhealthy for Sensitive Groups
+France,Aix En Provence,55,Moderate,1,Good,26,Good,3,Good,55,Moderate
+Myanmar,Akyab,145,Unhealthy for Sensitive Groups,1,Good,46,Good,0,Good,145,Unhealthy for Sensitive Groups
+United States of America,Alabaster,80,Moderate,1,Good,18,Good,10,Good,80,Moderate
+Russian Federation,Alagir,50,Good,1,Good,36,Good,1,Good,50,Good
+Belgium,Alken,35,Good,1,Good,25,Good,3,Good,35,Good
+Canada,Alma,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+Brazil,Almirante Tamandare,13,Good,1,Good,12,Good,1,Good,13,Good
+Spain,Almoradi,48,Good,1,Good,23,Good,3,Good,48,Good
+Papua New Guinea,Alotau,28,Good,0,Good,28,Good,0,Good,13,Good
+Germany,Altotting,50,Good,1,Good,29,Good,3,Good,50,Good
+Madagascar,Ambovombe,26,Good,0,Good,26,Good,0,Good,20,Good
+China,Anqiu,107,Unhealthy for Sensitive Groups,2,Good,107,Unhealthy for Sensitive Groups,5,Good,86,Moderate
+Madagascar,Antalaha,22,Good,0,Good,22,Good,0,Good,20,Good
+United States of America,Antioch,76,Moderate,3,Good,7,Good,25,Good,76,Moderate
+Lithuania,Anyksciai,47,Good,1,Good,32,Good,0,Good,47,Good
+Ghana,Apam,104,Unhealthy for Sensitive Groups,2,Good,14,Good,1,Good,104,Unhealthy for Sensitive Groups
+Mexico,Apaseo El Grande,60,Moderate,1,Good,16,Good,5,Good,60,Moderate
+Brazil,Aragarcas,32,Good,1,Good,3,Good,2,Good,32,Good
+Russian Federation,Arkadak,28,Good,1,Good,28,Good,1,Good,15,Good
+France,Armentieres,34,Good,0,Good,28,Good,2,Good,34,Good
+Russian Federation,Arsk,28,Good,1,Good,28,Good,1,Good,19,Good
+Azerbaijan,Artyom,48,Good,1,Good,35,Good,0,Good,48,Good
+Armenia,Ashtarak,39,Good,1,Good,29,Good,1,Good,39,Good
+Ethiopia,Asosa,97,Moderate,1,Good,14,Good,0,Good,97,Moderate
+Iran (Islamic Republic of),Astaneh Ye Ashrafiyeh,75,Moderate,1,Good,37,Good,0,Good,75,Moderate
+India,Atarra,194,Unhealthy,1,Good,44,Good,0,Good,194,Unhealthy
+Guatemala,Atescatempa,104,Unhealthy for Sensitive Groups,3,Good,5,Good,10,Good,104,Unhealthy for Sensitive Groups
+Italy,Atri,57,Moderate,1,Good,40,Good,3,Good,57,Moderate
+Ukraine,Avdiyivka,41,Good,1,Good,41,Good,3,Good,27,Good
+Portugal,Avintes,37,Good,1,Good,16,Good,7,Good,37,Good
+Malaysia,Ayer Keroh,59,Moderate,1,Good,34,Good,0,Good,59,Moderate
+United Kingdom of Great Britain and Northern Ireland,Ayr,29,Good,1,Good,29,Good,2,Good,20,Good
+Netherlands,Baarn,34,Good,0,Good,34,Good,1,Good,26,Good
+Serbia,Backa Palanka,70,Moderate,1,Good,41,Good,0,Good,70,Moderate
+Germany,Bad Langensalza,32,Good,0,Good,30,Good,1,Good,32,Good
+Pakistan,Bahawalnagar,500,Hazardous,1,Good,38,Good,1,Good,466,Hazardous
+South Africa,Balfour,380,Hazardous,31,Good,1,Good,26,Good,380,Hazardous
+South Africa,Ballitoville,222,Very Unhealthy,12,Good,5,Good,14,Good,222,Very Unhealthy
+Thailand,Ban Phai,52,Moderate,0,Good,28,Good,0,Good,52,Moderate
+Malaysia,Bandar Penggaram,76,Moderate,1,Good,39,Good,0,Good,76,Moderate
+Philippines,Bangued,27,Good,0,Good,23,Good,0,Good,27,Good
+Slovakia,Banovce,59,Moderate,1,Good,26,Good,2,Good,59,Moderate
+Germany,Bargteheide,38,Good,0,Good,28,Good,2,Good,38,Good
+United States of America,Bartlesville,56,Moderate,1,Good,23,Good,6,Good,56,Moderate
+Gambia,Basse,127,Unhealthy for Sensitive Groups,1,Good,18,Good,0,Good,127,Unhealthy for Sensitive Groups
+Pakistan,Bat Khela,117,Unhealthy for Sensitive Groups,1,Good,117,Unhealthy for Sensitive Groups,1,Good,78,Moderate
+Malaysia,Batu Gajah,92,Moderate,2,Good,57,Moderate,1,Good,92,Moderate
+India,Bazpur,182,Unhealthy,5,Good,170,Unhealthy,5,Good,182,Unhealthy
+Italy,Castel Goffredo,124,Unhealthy for Sensitive Groups,2,Good,32,Good,7,Good,124,Unhealthy for Sensitive Groups
+Italy,Catanzaro,68,Moderate,2,Good,68,Moderate,6,Good,57,Moderate
+Philippines,Catbalogan,68,Moderate,1,Good,26,Good,0,Good,68,Moderate
+Ecuador,Cayambe,39,Good,1,Good,4,Good,2,Good,39,Good
+Bosnia and Herzegovina,Cazin,50,Good,1,Good,33,Good,0,Good,50,Good
+Italy,Cernusco Sul Naviglio,103,Unhealthy for Sensitive Groups,1,Good,33,Good,6,Good,103,Unhealthy for Sensitive Groups
+Italy,Cesenatico,38,Good,1,Good,36,Good,5,Good,38,Good
+Czechia,Ceske Budejovice,61,Moderate,1,Good,38,Good,1,Good,61,Moderate
+Argentina,Chacabuco,17,Good,0,Good,17,Good,1,Good,17,Good
+Peru,Chachapoyas,21,Good,0,Good,4,Good,0,Good,21,Good
+France,Chalon Sur Saone,32,Good,1,Good,32,Good,1,Good,20,Good
+China,Chaoyang,151,Unhealthy,3,Good,119,Unhealthy for Sensitive Groups,1,Good,151,Unhealthy
+Viet Nam,Chau Doc,57,Moderate,1,Good,32,Good,0,Good,57,Moderate
+Russian Federation,Cherepanovo,38,Good,1,Good,38,Good,0,Good,35,Good
+Russian Federation,Cherkessk,49,Good,1,Good,40,Good,0,Good,49,Good
+India,Chhabra,171,Unhealthy,1,Good,42,Good,0,Good,171,Unhealthy
+India,Chilakalurupet,91,Moderate,1,Good,28,Good,1,Good,91,Moderate
+Mexico,Chilpancingo,72,Moderate,2,Good,4,Good,5,Good,72,Moderate
+India,Chipurupalle,153,Unhealthy,2,Good,22,Good,6,Good,153,Unhealthy
+Poland,Chojnow,59,Moderate,1,Good,25,Good,2,Good,59,Moderate
+India,Chotila,157,Unhealthy,0,Good,31,Good,1,Good,157,Unhealthy
+United States of America,Cimarron Hills,73,Moderate,1,Good,32,Good,2,Good,73,Moderate
+Brazil,Claudio,71,Moderate,2,Good,3,Good,6,Good,71,Moderate
+Brazil,Clevelandia,17,Good,0,Good,17,Good,0,Good,11,Good
+Brazil,Coari,46,Good,1,Good,2,Good,0,Good,46,Good
+United Kingdom of Great Britain and Northern Ireland,Coatbridge,35,Good,1,Good,12,Good,9,Good,35,Good
+Ireland,Cobh,24,Good,0,Good,24,Good,1,Good,16,Good
+Brazil,Colatina,45,Good,1,Good,14,Good,2,Good,45,Good
+Romania,Comanesti,61,Moderate,1,Good,40,Good,0,Good,61,Moderate
+Dominican Republic,Comendador,65,Moderate,1,Good,12,Good,6,Good,65,Moderate
+Italy,Como,112,Unhealthy for Sensitive Groups,1,Good,34,Good,4,Good,112,Unhealthy for Sensitive Groups
+Brazil,Conde,19,Good,0,Good,19,Good,0,Good,11,Good
+United Kingdom of Great Britain and Northern Ireland,Consett,31,Good,0,Good,31,Good,2,Good,22,Good
+United States of America,Cooper City,152,Unhealthy,4,Good,4,Good,19,Good,152,Unhealthy
+United States of America,Copperas Cove,31,Good,1,Good,21,Good,1,Good,31,Good
+Brazil,Cornelio Procopio,37,Good,1,Good,12,Good,1,Good,37,Good
+Argentina,Corrientes,13,Good,1,Good,12,Good,0,Good,13,Good
+Mexico,Cotija,41,Good,1,Good,8,Good,3,Good,41,Good
+Italy,Crevalcore,103,Unhealthy for Sensitive Groups,2,Good,28,Good,9,Good,103,Unhealthy for Sensitive Groups
+Azerbaijan,Culfa,52,Moderate,1,Good,35,Good,0,Good,52,Moderate
+Spain,Culleredo,30,Good,0,Good,30,Good,2,Good,13,Good
+India,Cuncolim,73,Moderate,0,Good,25,Good,0,Good,73,Moderate
+Brazil,Curvelo,42,Good,1,Good,2,Good,4,Good,42,Good
+Germany,Cuxhaven,35,Good,0,Good,35,Good,0,Good,30,Good
+United States of America,Cypress Lake,46,Good,1,Good,25,Good,5,Good,46,Good
+Poland,Czestochowa,93,Moderate,1,Good,27,Good,4,Good,93,Moderate
+Guinea,Dalaba,63,Moderate,2,Good,13,Good,0,Good,63,Moderate
+Pakistan,Dalbandin,160,Unhealthy,0,Good,39,Good,0,Good,160,Unhealthy
+France,Beaune,39,Good,1,Good,26,Good,1,Good,39,Good
+United States of America,Bedford,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+Ghana,Begoro,105,Unhealthy for Sensitive Groups,2,Good,13,Good,2,Good,105,Unhealthy for Sensitive Groups
+China,Beipiao,93,Moderate,2,Good,90,Moderate,1,Good,93,Moderate
+Brazil,Bela Cruz,45,Good,0,Good,22,Good,0,Good,45,Good
+Bolivia (Plurinational State of),Bermejo,54,Moderate,1,Good,8,Good,1,Good,54,Moderate
+Germany,Bernburg,36,Good,0,Good,29,Good,2,Good,36,Good
+United States of America,Berwick,50,Good,1,Good,35,Good,5,Good,50,Good
+India,Betma,153,Unhealthy,1,Good,34,Good,0,Good,153,Unhealthy
+United States of America,Beverly,48,Good,1,Good,36,Good,5,Good,48,Good
+Russian Federation,Bezhetsk,24,Good,0,Good,24,Good,0,Good,24,Good
+Bangladesh,Bhairab Bazar,132,Unhealthy for Sensitive Groups,3,Good,44,Good,4,Good,132,Unhealthy for Sensitive Groups
+Pakistan,Bhalwal,179,Unhealthy,3,Good,179,Unhealthy,2,Good,166,Unhealthy
+India,Bhimavaram,124,Unhealthy for Sensitive Groups,1,Good,36,Good,1,Good,124,Unhealthy for Sensitive Groups
+India,Bhinmal,202,Very Unhealthy,0,Good,34,Good,0,Good,202,Very Unhealthy
+India,Bhiwandi,151,Unhealthy,1,Good,26,Good,1,Good,151,Unhealthy
+Indonesia,Binjai,92,Moderate,2,Good,45,Good,0,Good,92,Moderate
+Brazil,Baiao,39,Good,1,Good,5,Good,0,Good,39,Good
+Russian Federation,Baksan,48,Good,1,Good,39,Good,1,Good,48,Good
+Sudan,Bara,52,Moderate,2,Good,17,Good,0,Good,52,Moderate
+Colombia,Baranoa,104,Unhealthy for Sensitive Groups,1,Good,16,Good,2,Good,104,Unhealthy for Sensitive Groups
+Philippines,Baras,51,Moderate,1,Good,27,Good,1,Good,51,Moderate
+Iran (Islamic Republic of),Bardsir,91,Moderate,1,Good,49,Good,0,Good,91,Moderate
+India,Bari Sadri,167,Unhealthy,1,Good,32,Good,0,Good,167,Unhealthy
+Thailand,Nong Bua,38,Good,0,Good,20,Good,0,Good,38,Good
+Thailand,Nong Han,57,Moderate,0,Good,25,Good,0,Good,57,Moderate
+Netherlands,Noordwijkerhout,41,Good,1,Good,27,Good,5,Good,41,Good
+United States of America,North Andrews Gardens,78,Moderate,1,Good,11,Good,12,Good,78,Moderate
+United States of America,Northbridge,47,Good,1,Good,46,Good,2,Good,47,Good
+United Kingdom of Great Britain and Northern Ireland,Norwich,29,Good,0,Good,29,Good,3,Good,18,Good
+Serbia,Novi Becej,60,Moderate,1,Good,34,Good,1,Good,60,Moderate
+Netherlands,Nuenen,37,Good,1,Good,32,Good,3,Good,37,Good
+Chile,Nueva Imperial,61,Moderate,2,Good,2,Good,9,Good,61,Moderate
+Panama,Nuevo Arraijan,67,Moderate,2,Good,20,Good,5,Good,67,Moderate
+Mexico,Nuevo Casas Grandes,46,Good,1,Good,17,Good,2,Good,46,Good
+United States of America,Oak Lawn,79,Moderate,2,Good,13,Good,27,Good,79,Moderate
+United States of America,Oakdale,53,Moderate,1,Good,24,Good,9,Good,53,Moderate
+Ghana,Obuasi,81,Moderate,1,Good,18,Good,0,Good,81,Moderate
+Japan,Odawara,39,Good,1,Good,38,Good,2,Good,39,Good
+Germany,Oer Erkenschwick,34,Good,1,Good,34,Good,2,Good,27,Good
+Republic of North Macedonia,Ohrid,42,Good,1,Good,41,Good,0,Good,42,Good
+Japan,Okawa,41,Good,2,Good,36,Good,5,Good,41,Good
+Poland,Olecko,47,Good,1,Good,36,Good,0,Good,47,Good
+Germany,Olfen,32,Good,1,Good,27,Good,4,Good,32,Good
+Brazil,Olindina,25,Good,0,Good,6,Good,1,Good,25,Good
+Japan,Omagari,35,Good,1,Good,35,Good,0,Good,15,Good
+Netherlands,Oostburg,36,Good,1,Good,26,Good,3,Good,36,Good
+United States of America,Orem,73,Moderate,2,Good,26,Good,7,Good,73,Moderate
+United States of America,Orinda,52,Moderate,1,Good,22,Good,11,Good,52,Moderate
+Poland,Ostrzeszow,35,Good,1,Good,32,Good,1,Good,35,Good
+Guatemala,Ostuncalco,94,Moderate,3,Good,9,Good,11,Good,94,Moderate
+Congo,Ouesso,71,Moderate,3,Good,18,Good,0,Good,71,Moderate
+Brazil,Ouro Preto,61,Moderate,2,Good,3,Good,5,Good,61,Moderate
+Nigeria,Oyo,80,Moderate,2,Good,22,Good,1,Good,80,Moderate
+Kyrgyzstan,Ozgon,101,Unhealthy for Sensitive Groups,1,Good,60,Moderate,0,Good,101,Unhealthy for Sensitive Groups
+Italy,Pachino,48,Good,1,Good,45,Good,0,Good,48,Good
+India,Padra,156,Unhealthy,1,Good,33,Good,0,Good,156,Unhealthy
+Mauritius,Pailles,30,Good,0,Good,28,Good,0,Good,30,Good
+France,Paita,27,Good,0,Good,27,Good,0,Good,10,Good
+India,Palakkodu,57,Moderate,0,Good,30,Good,0,Good,57,Moderate
+Philippines,Palo,55,Moderate,1,Good,20,Good,0,Good,55,Moderate
+Indonesia,Pamekasan,54,Moderate,1,Good,35,Good,0,Good,54,Moderate
+China,Panchiao,69,Moderate,1,Good,45,Good,4,Good,69,Moderate
+China,Panshi,76,Moderate,3,Good,32,Good,2,Good,76,Moderate
+China,Panzhihua,74,Moderate,3,Good,29,Good,2,Good,74,Moderate
+Brazil,Paragominas,36,Good,1,Good,2,Good,0,Good,36,Good
+Brazil,Paraguacu,51,Moderate,1,Good,7,Good,4,Good,51,Moderate
+Peru,Paramonga,41,Good,1,Good,18,Good,1,Good,41,Good
+United States of America,Parkville,56,Moderate,1,Good,44,Good,4,Good,56,Moderate
+United States of America,Pasadena,58,Moderate,1,Good,43,Good,5,Good,58,Moderate
+United States of America,Pataskala,45,Good,1,Good,32,Good,7,Good,45,Good
+Kazakhstan,Pavlodar,50,Good,1,Good,41,Good,0,Good,50,Good
+India,Payyannur,68,Moderate,0,Good,24,Good,0,Good,68,Moderate
+United States of America,Pelham,46,Good,1,Good,46,Good,2,Good,31,Good
+Greece,Perama,67,Moderate,1,Good,44,Good,2,Good,67,Moderate
+Mexico,Perote,77,Moderate,3,Good,7,Good,8,Good,77,Moderate
+Serbia,Petrovaradin,63,Moderate,1,Good,33,Good,1,Good,63,Moderate
+Thailand,Phanom Thuan,42,Good,0,Good,19,Good,0,Good,42,Good
+Thailand,Phatthalung,59,Moderate,1,Good,27,Good,0,Good,59,Moderate
+Thailand,Phetchaburi,35,Good,0,Good,17,Good,0,Good,35,Good
+India,Phillaur,444,Hazardous,2,Good,111,Unhealthy for Sensitive Groups,1,Good,391,Hazardous
+Egypt,Rosetta,60,Moderate,2,Good,60,Moderate,3,Good,55,Moderate
+Italy,Rossano,48,Good,1,Good,48,Good,0,Good,12,Good
+Russian Federation,Rostov,32,Good,1,Good,32,Good,0,Good,26,Good
+United Kingdom of Great Britain and Northern Ireland,Royton,56,Moderate,0,Good,32,Good,1,Good,56,Moderate
+Germany,Rudolstadt,32,Good,1,Good,32,Good,1,Good,30,Good
+Czechia,Rumburk,29,Good,0,Good,29,Good,2,Good,29,Good
+Malawi,Rumphi,28,Good,0,Good,19,Good,0,Good,28,Good
+Switzerland,Ruti,34,Good,1,Good,25,Good,2,Good,34,Good
+Brazil,Ruy Barbosa,18,Good,0,Good,8,Good,0,Good,18,Good
+Serbia,Sabac,68,Moderate,1,Good,32,Good,1,Good,68,Moderate
+Cuba,Sagua La Grande,89,Moderate,1,Good,22,Good,1,Good,89,Moderate
+India,Sahibganj,208,Very Unhealthy,3,Good,152,Unhealthy,1,Good,208,Very Unhealthy
+United States of America,Saint Matthews,58,Moderate,2,Good,29,Good,12,Good,58,Moderate
+United States of America,Saint Pete Beach,53,Moderate,1,Good,40,Good,6,Good,53,Moderate
+Canada,Saint Thomas,35,Good,1,Good,35,Good,3,Good,34,Good
+France,Saint Cyr Sur Loire,37,Good,1,Good,25,Good,2,Good,37,Good
+Belgium,Saint Nicolas,35,Good,1,Good,32,Good,3,Good,35,Good
+France,Saint Quentin,39,Good,1,Good,25,Good,2,Good,39,Good
+Saudi Arabia,Sakakah,122,Unhealthy for Sensitive Groups,1,Good,49,Good,0,Good,122,Unhealthy for Sensitive Groups
+Japan,Sakurai,40,Good,1,Good,40,Good,2,Good,34,Good
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,0,Good,32,Good,1,Good,58,Moderate
+India,Salon,303,Hazardous,1,Good,48,Good,0,Good,260,Very Unhealthy
+Brazil,Salvador,30,Good,0,Good,16,Good,1,Good,30,Good
+India,Sambhar,193,Unhealthy,0,Good,38,Good,0,Good,193,Unhealthy
+Turkey,Samsun,36,Good,1,Good,36,Good,0,Good,30,Good
+Indonesia,Prabumulih,49,Good,1,Good,30,Good,0,Good,49,Good
+Brazil,Presidente Prudente,32,Good,1,Good,14,Good,1,Good,32,Good
+United States of America,Prichard,28,Good,1,Good,22,Good,4,Good,28,Good
+Canada,Prince George,21,Good,1,Good,21,Good,1,Good,13,Good
+Indonesia,Pringsewu,63,Moderate,2,Good,40,Good,0,Good,63,Moderate
+Peru,Pucallpa,30,Good,1,Good,1,Good,0,Good,30,Good
+Spain,Puertollano,32,Good,1,Good,30,Good,1,Good,32,Good
+Mexico,Purepero,48,Good,1,Good,5,Good,4,Good,48,Good
+Israel,Qiryat Gat,80,Moderate,1,Good,62,Moderate,4,Good,80,Moderate
+Chile,Quillota,182,Unhealthy,14,Good,1,Good,23,Good,182,Unhealthy
+India,Rafiganj,356,Hazardous,1,Good,60,Moderate,0,Good,284,Very Unhealthy
+United States of America,Rahway,62,Moderate,1,Good,44,Good,5,Good,62,Moderate
+Bangladesh,Rajshahi,191,Unhealthy,2,Good,133,Unhealthy for Sensitive Groups,2,Good,191,Unhealthy
+India,Rajur,150,Unhealthy,1,Good,41,Good,0,Good,150,Unhealthy
+Thailand,Phrai Bung,53,Moderate,0,Good,27,Good,0,Good,53,Moderate
+India,Phulpur,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy
+Brazil,Picos,16,Good,0,Good,12,Good,0,Good,16,Good
+Finland,Pietarsaari,34,Good,1,Good,34,Good,1,Good,17,Good
+Germany,Pirmasens,30,Good,1,Good,27,Good,2,Good,30,Good
+United States of America,Plum,55,Moderate,2,Good,26,Good,12,Good,55,Moderate
+Benin,Pobe,73,Moderate,1,Good,20,Good,1,Good,73,Moderate
+Italy,Policoro,46,Good,1,Good,46,Good,0,Good,14,Good
+Sierra Leone,Port Loko,48,Good,1,Good,16,Good,0,Good,48,Good
+Haiti,Port De Paix,103,Unhealthy for Sensitive Groups,1,Good,25,Good,1,Good,103,Unhealthy for Sensitive Groups
+Portugal,Porto Salvo,46,Good,0,Good,30,Good,2,Good,46,Good
+United States of America,Poughkeepsie,43,Good,1,Good,43,Good,2,Good,39,Good
+United States of America,Randallstown,52,Moderate,1,Good,44,Good,4,Good,52,Moderate
+India,Rania,500,Hazardous,1,Good,40,Good,0,Good,464,Hazardous
+Thailand,Ranong,36,Good,0,Good,16,Good,0,Good,36,Good
+Germany,Rathenow,39,Good,0,Good,39,Good,0,Good,23,Good
+Russian Federation,Reutov,58,Moderate,1,Good,25,Good,9,Good,58,Moderate
+Brazil,Ribeira Do Pombal,24,Good,0,Good,7,Good,1,Good,24,Good
+Brazil,Ribeirao Bonito,52,Moderate,1,Good,4,Good,3,Good,52,Moderate
+United States of America,Richardson,56,Moderate,1,Good,21,Good,6,Good,56,Moderate
+United States of America,Richmond,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+Brazil,Rio Bonito,95,Moderate,3,Good,23,Good,8,Good,95,Moderate
+Peru,Rioja,25,Good,1,Good,3,Good,0,Good,25,Good
+France,Riom,40,Good,1,Good,30,Good,1,Good,40,Good
+Lebanon,Riyaq,78,Moderate,1,Good,46,Good,1,Good,78,Moderate
+Italy,Rocca Priora,47,Good,1,Good,47,Good,2,Good,27,Good
+France,Rodez,42,Good,1,Good,31,Good,1,Good,42,Good
+Brazil,Rolandia,39,Good,1,Good,14,Good,2,Good,39,Good
+France,Romans Sur Isere,37,Good,1,Good,30,Good,1,Good,37,Good
+Philippines,Romblon,50,Good,1,Good,23,Good,0,Good,50,Good
+India,Dalmau,190,Unhealthy,2,Good,98,Moderate,1,Good,190,Unhealthy
+United States of America,Daly City,62,Moderate,1,Good,18,Good,13,Good,62,Moderate
+India,Damnagar,152,Unhealthy,0,Good,29,Good,0,Good,152,Unhealthy
+Thailand,Dan Khun Thot,56,Moderate,1,Good,31,Good,0,Good,56,Moderate
+China,Dancheng,145,Unhealthy for Sensitive Groups,2,Good,145,Unhealthy for Sensitive Groups,3,Good,82,Moderate
+India,Dankaur,292,Very Unhealthy,3,Good,136,Unhealthy for Sensitive Groups,3,Good,292,Very Unhealthy
+United Republic of Tanzania,Dareda,20,Good,0,Good,14,Good,0,Good,20,Good
+India,Dattapur,153,Unhealthy,0,Good,29,Good,0,Good,153,Unhealthy
+Brazil,Delmiro Gouveia,25,Good,0,Good,9,Good,1,Good,25,Good
+Uruguay,Delta Del Tigre,38,Good,1,Good,19,Good,2,Good,38,Good
+India,Delvada,158,Unhealthy,0,Good,25,Good,0,Good,158,Unhealthy
+Russian Federation,Desnogorsk,34,Good,1,Good,34,Good,0,Good,10,Good
+Turkey,Develi,46,Good,1,Good,29,Good,0,Good,46,Good
